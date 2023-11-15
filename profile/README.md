@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/TargetPackage/.github/blob/master/profile/social-hero.png" alt="Target Package full logo" title="Target Package">
+  <img src="https://raw.githubusercontent.com/TargetPackage/.github/main/profile/social-hero.png" alt="Target Package full logo" title="Target Package">
 </p>
 <br />
 
